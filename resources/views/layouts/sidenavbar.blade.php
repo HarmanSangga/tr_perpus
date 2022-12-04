@@ -132,7 +132,7 @@
           <li class="nav-item">
             <a href="/buku" class="nav-link">
               <i class="fas fa-circle nav-icon"></i>
-              <p>Proses</p>
+              <p>coba</p>
             </a>
           </li>        
         </ul>
